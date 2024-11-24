@@ -46,6 +46,9 @@ h2 {
 
 p {
   color: #242424;
+  background-color: white;
+  border: 2px solid #242424;
+  padding: 1rem;
 }
 
 #interface {
